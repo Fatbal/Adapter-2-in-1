@@ -1,6 +1,6 @@
 # Adapter-2-in-1
 
-Some time ago, I was reading different posts on the subreddit r/ErgiMechBoards (https://www.reddit.com/r/ErgoMechKeyboards/), where I saw people who liked more split ergo keyboards but because of  how they place the keyboard they wanted/get unibody ergo keyboards. An idea occurred to me that we could use some kind of center hub with a retractable center that hides the cable (like the retractable earphones) and that can grab the two parts so it is comfortable to write.
+Some time ago, I was reading different posts on the subreddit r/ErgiMechBoards (https://www.reddit.com/r/ErgoMechKeyboards/), where I saw people who liked more split ergo keyboards but because of  how they place the keyboard they wanted/get unibody ergo keyboards. An idea occurred to me that we could use some kind of center hub with a retractable center that hides the cable (like the retractable earphones) and that can grab the two parts so it is comfortable to write. Of course, an important point was the price, so the making a split with only one microcontroller.
 
 So after some thinking, I decided to make a prototype to know if it was possible. I only want a split, so I will not develop it anymore but, because I didn't see anything like this, I wanted to put it on the internet in case someone needs it and wants to develop it.
 
