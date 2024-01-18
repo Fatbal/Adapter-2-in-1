@@ -18,7 +18,7 @@ This prototype has four features that I wanted to include.
 
   4: Pointing device.
   At first, I was imagining a circular adapter and there are a lot of people that use a trackball or a cirque trackpad in their keyboards, so circular and circular, made sense they need each other. I decided on a Cirque 40mm trackpad because is the one I had available. 
-  But in both cases, you need to program where is up and down and right and left. But if I let it rotate with the microprocessor, the directions would change or the cable would rotate and the cable could break with tension. 
+  But in both cases, you need to program where it is up and down and right and left. But if I let it rotate with the microprocessor, the directions would change or the cable would rotate and the cable could break with tension. 
   My first idea was to include a trrs connector to connect the spi adapter for the Cirque trackpad. because of the circular nature of the trrs connector, there would be no tensions in the cable and you could rotate the cirque independently from the rotation of the microcontroller.
   But of course, if you need more than 4cablese or you want to also include some keys at the center this solution would not work. So the next solution would be to rotate the exterior of the adapter instead of the center. Then it enters conflict with the second feature and would have problems with the cable. So I made it a three-part core with a static center and exterior and a rotating middle ground.
   To have more room I decided on a four floors adapter. The bottom floor is for the microcontroller, the battery, and the wireless charger pad. (You can make a slimmer floor if you want to put the microcontroller in the center, or eliminate it if you don't want the wireless charge.) The next floor is for the cable to roll in itself. I use a 10-ribbon cable that may be too thin, so it is better if you can adapt the dimensions. The next floor is for the wheel to rotate the middle rotating part from the floor just under. The top floor is for the pointing device. 
@@ -27,11 +27,17 @@ This prototype has four features that I wanted to include.
 As can be seen, the additional features are the ones that complicate more the design. 
 
 Challenges to solve:
-  1: retractable cable.
+  1: Retractable cable.
   It is difficult with my solution to calculate the best dimensions for your cable separation and it is beneficial to use a ribbon cable compared to individual cables.
 
   2: Improve how to grab the 2 halves. 
   It would be better to adapt to each one's preferences.
 
   3: Lowering the high/portability.
-  To improve the portability it would be important to lower the 
+  To improve the portability, it would be important to lower the total height so you can put it easier in a bag.
+
+  4: Thumbkeys that go in front.
+  Self explanatory.
+
+  5: Adapt to a PCB.
+  You could have a PCB to put the microcontroller and some for the keys. You could even think of reusing some of the already popular split keyboards PCBs like Corne, Lily, or Sofle. 
