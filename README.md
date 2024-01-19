@@ -1,8 +1,8 @@
 # Adapter-2-in-1
 
-Some time ago, I was reading different posts on the subreddit r/ErgiMechBoards (https://www.reddit.com/r/ErgoMechKeyboards/), where I saw people who liked more split ergo keyboards but because of  how they place the keyboard they wanted/get unibody ergo keyboards. An idea occurred to me that we could use some kind of center hub with a retractable center that hides the cable (like the retractable earphones) and that can grab the two parts so it is comfortable to write. Of course, an important point was the price, so the making a split with only one microcontroller.
+Some time ago, I was reading different posts on the subreddit r/ErgiMechBoards (https://www.reddit.com/r/ErgoMechKeyboards/), where I saw people who liked more split ergo keyboards but because of  how they place the keyboard they wanted/get unibody ergo keyboards. An idea occurred to me that we could use some kind of center hub with a retractable center that hides the cable (like the retractable earphones) and that can grab the two parts so it is comfortable to write. Of course, an important point is, and always was, the price, so making a split with only one microcontroller can make it cheap.
 
-So after some thinking, I decided to make a prototype to know if it was possible. I only want a split, so I will not develop it anymore but, because I didn't see anything like this, I wanted to put it on the internet in case someone needs it and wants to develop it.
+So after some thinking, I decided to make a prototype to know if it was possible. I only want a split, so I will not develop it anymore but, because I didn't see anything like this, I wanted to put it on the internet in case someone needs it and wants to develop it. Also, I only know how to sketch and extract in fusion360 so it's not a good design. 
 
 This prototype has four features that I wanted to include.
   1: Retractable cable. 
@@ -29,6 +29,7 @@ As can be seen, the additional features are the ones that complicate more the de
 Challenges to solve:
   1: Retractable cable.
   It is difficult with my solution to calculate the best dimensions for your cable separation and it is beneficial to use a ribbon cable compared to individual cables.
+  Also, there are some problems with tensions. 
 
   2: Improve how to grab the 2 halves. 
   It would be better to adapt to each one's preferences.
@@ -40,4 +41,11 @@ Challenges to solve:
   Self explanatory.
 
   5: Adapt to a PCB.
-  You could have a PCB to put the microcontroller and some for the keys. You could even think of reusing some of the already popular split keyboards PCBs like Corne, Lily, or Sofle. 
+  You could have a PCB to put the microcontroller and some for the keys. You could even think of reusing some of the already popular split keyboards PCBs like Corne, Lily, or Sofle.
+
+  6: Aesthetics.
+  I don't like the boxy feeling it gives and right now it has an open frame. So it would be important to improve the aesthetics.
+  Moreover, you need a frontal plate so you can get a  better grip on the microcontroller or extended USB port so it is easier to connect a cable.
+
+
+I would like you to know that the ribbon cable I use is too small and would not support the 6X5 matrix I would need for the final print I made, Si the dimensions would need to change. But, as I stated before, I don't want to keep going with the project and I realized of this error after printing it.
