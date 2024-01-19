@@ -4,6 +4,7 @@ Some time ago, I was reading different posts on the subreddit r/ErgiMechBoards (
 
 So
 after some thinking, I decided to make a prototype to know if it was possible. I only want a split, so I will not develop it anymore but, because I didn't see anything like this, I wanted to put it on the internet in case someone needs it and wants to develop it. Also, I only know how to sketch and extract in fusion360 so it's not a good design. 
+![alone](https://github.com/Fatbal/Adapter-2-in-1/assets/103590914/44be7553-58c9-41a0-99ad-7195356ccee3)
 
 
 This prototype has four features that I wanted to include.
@@ -41,6 +42,7 @@ This prototype has four features that I wanted to include.
 
 
 As can be seen, the additional features are the ones that complicate more the design. 
+
 
 Challenges to solve:
 
