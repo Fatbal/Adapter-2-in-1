@@ -27,15 +27,16 @@ This prototype has four features that I wanted to include.
 As can be seen, the additional features are the ones that complicate more the design. 
 
 Challenges to solve:
-  1: Retractable cable.
-  It is difficult with my solution to calculate the best dimensions for your cable separation and it is beneficial to use a ribbon cable compared to individual cables.
+  
+    1: Retractable cable.
+    It is difficult with my solution to calculate the best dimensions for your cable separation and it is beneficial to use a ribbon cable compared to individual cables.
   Also, there are some problems with tensions. 
 
-  2: Improve how to grab the 2 halves. 
-  It would be better to adapt to each one's preferences.
+    2: Improve how to grab the 2 halves. 
+    It would be better to adapt to each one's preferences.
 
-  3: Lowering the high/portability.
-  To improve the portability, it would be important to lower the total height so you can put it easier in a bag.
+    3: Lowering the high/portability.
+    To improve the portability, it would be important to lower the total height so you can put it easier in a bag.
 
   4: Thumbkeys that go in front.
   Self explanatory.
