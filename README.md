@@ -2,9 +2,12 @@
 
 Some time ago, I was reading different posts on the subreddit r/ErgiMechBoards (https://www.reddit.com/r/ErgoMechKeyboards/), where I saw people who liked more split ergo keyboards but because of  how they place the keyboard they wanted/get unibody ergo keyboards. An idea occurred to me that we could use some kind of center hub with a retractable center that hides the cable (like the retractable earphones) and that can grab the two parts so it is comfortable to write. Of course, an important point is, and always was, the price, so making a split with only one microcontroller can make it cheap.
 
-So
-after some thinking, I decided to make a prototype to know if it was possible. I only want a split, so I will not develop it anymore but, because I didn't see anything like this, I wanted to put it on the internet in case someone needs it and wants to develop it. Also, I only know how to sketch and extract in fusion360 so it's not a good design. 
+So after some thinking, I decided to make a prototype to know if it was possible. I only want a split, so I will not develop it anymore but, because I didn't see anything like this, I wanted to put it on the internet in case someone needs it and wants to develop it. Also, I only know how to sketch and extract in fusion360 so it's not a good design. 
 ![alone](https://github.com/Fatbal/Adapter-2-in-1/assets/103590914/44be7553-58c9-41a0-99ad-7195356ccee3)
+
+
+
+
 
 
 This prototype has four features that I wanted to include.
@@ -18,7 +21,7 @@ This prototype has four features that I wanted to include.
   
   2: Keep the two halves together. 
   
-  I decided to not develop it much. the idea is to use a screw. In my prototype, I used a 3d filament shard to not use metal or 3d print screws. But you could search for some other solutions like clip or buckle. Because of the height of the adapter, you get enough rigidity 
+  I decided to not develop it much. the idea is to use a screw. In my prototype, I used a piece of 3d filament to not use screws. But you could search for some other solutions like clip or buckle. Because of the height of the adapter, you get enough rigidity 
 
   
   3: Include a wireless charger.
@@ -42,6 +45,11 @@ This prototype has four features that I wanted to include.
 
 
 As can be seen, the additional features are the ones that complicate more the design. 
+
+
+
+
+
 
 
 Challenges to solve:
