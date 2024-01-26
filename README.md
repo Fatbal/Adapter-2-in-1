@@ -83,3 +83,8 @@ Challenges to solve:
 
 
 I would like you to know that the ribbon cable I use is too small and would not support the 6X5 matrix I would need for the final print I made, Si the dimensions would need to change. But, as I stated before, I don't want to keep going with the project and I realized of this error after printing it.
+
+
+
+
+For any question you can send me a message here or on reddit: https://www.reddit.com/user/Fatbal
